@@ -52,6 +52,7 @@ body {
 	line-height: 30px;
 	font-size: 16px;
 	font-weight: 300;
+	font-family: 'inria serif';
 }
 
 h2 {
@@ -122,6 +123,7 @@ h2 {
 .top-5-activities li {
 	font-size: 16px;
 	line-height: 30px;
+	font-family: 'inria serif';
 }
 
 .article-tips {
@@ -143,6 +145,7 @@ h2 {
 	font-size: 16px;
 	list-style: none;
 	line-height: 30px;
+	font-family: 'inria serif';
 }
 
 .pseudo-dash {
@@ -225,6 +228,7 @@ h2 {
 	padding: 3px;
 	background: rgba(183, 229, 255, 0.34);
 	font-size: 16px;
+	font-family: 'inria serif';
 }
 
 .figure-2 {
@@ -246,6 +250,7 @@ h2 {
 	background: rgba(183, 229, 255, 0.34);
 	margin-left: -10px;
 	font-size: 16px;
+	font-family: 'inria serif';
 }
 
 .figure-3 {
@@ -266,6 +271,7 @@ h2 {
 	padding: 3px;
 	background: rgba(183, 229, 255, 0.34);
 	font-size: 16px;
+	font-family: 'inria serif';
 }
 
 .figure-4 {
@@ -287,6 +293,7 @@ h2 {
 	background: rgba(183, 229, 255, 0.34);
 	margin-left: -10px;
 	font-size: 16px;
+	font-family: 'inria serif';
 }
 
 
@@ -504,6 +511,11 @@ h2 {
 		margin: 5px;
 	}
 
+	.top-5-activities li {
+		font-size: 28px;
+		line-height: 60px;
+	}
+
 	.top-row-laptop {
 		display: flex;
 		flex-direction: row;
@@ -518,11 +530,6 @@ h2 {
 		flex-direction: row;
 		justify-content: center;
 		align-items: center;
-	}
-
-	.top-5-activities {
-		padding: 10px;
-		margin: 5px;
 	}
 
 	.rastro {
@@ -555,6 +562,11 @@ h2 {
 		height: 344px;
 	}
 
+	.tips li {
+		font-size: 28px;
+		line-height: 60px;
+	}
+
 	.overlay-square {
 		width: 60%;
 	}
@@ -568,10 +580,12 @@ h2 {
 	}
 
 	.caption-1 {
-		width: 220px;
-		height: 300px;
+		width: 420px;
+		height: 400px;
 		text-align: left;
 		padding: 15px;
+		font-size: 28px;
+		line-height: 60px;
 	}
 
 	.figure-2 {
@@ -583,10 +597,12 @@ h2 {
 	}
 
 	.caption-2 {
-		width: 220px;
-		height: 300px;
+		width: 400px;
+		height: 320px;
 		text-align: left;
 		padding: 15px;
+		font-size: 28px;
+		line-height: 60px;
 	}
 
 	.figure-3 {
@@ -597,10 +613,12 @@ h2 {
 	}
 
 	.caption-3 {
-		width: 220px;
-		height: 250px;
+		width: 420px;
+		height: 320px;
 		text-align: left;
 		padding: 15px;
+		font-size: 28px;
+		line-height: 60px;
 	}
 
 	.figure-4 {
@@ -612,9 +630,11 @@ h2 {
 	}
 
 	.caption-4 {
-		width: 220px;
-		height: 250px;
+		width: 420px;
+		height: 320px;
 		text-align: left;
 		padding: 15px;
+		font-size: 28px;
+		line-height: 60px;
 	}
 }

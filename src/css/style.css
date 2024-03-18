@@ -596,11 +596,25 @@ h2 {
 
 	}
 
+	.caption-3 {
+		width: 220px;
+		height: 250px;
+		text-align: left;
+		padding: 15px;
+	}
+
 	.figure-4 {
 		flex-direction: row;
 		left: 51%;
 		bottom: 19%;
 		width: 50%;
 		margin: 0px;
+	}
+
+	.caption-4 {
+		width: 220px;
+		height: 250px;
+		text-align: left;
+		padding: 15px;
 	}
 }
